@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Ryze
+# 🧑‍💻 Ryze
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Ryze, tenho 15 anos e sou natural de São Paulo. Terminando o ensino fundamental II, Focado em cursar Ciência da Computação. Atualmente, estou desenvolvendo aplicações/bots para o discord (discord.js & discord.py).
 
